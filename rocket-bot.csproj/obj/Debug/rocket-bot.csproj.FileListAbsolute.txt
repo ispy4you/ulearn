@@ -1,0 +1,13 @@
+C:\Users\chuzh\OneDrive\Рабочий стол\rocket-bot.csproj\bin\Debug\images\flag.png
+C:\Users\chuzh\OneDrive\Рабочий стол\rocket-bot.csproj\bin\Debug\images\rocket.png
+C:\Users\chuzh\OneDrive\Рабочий стол\rocket-bot.csproj\bin\Debug\rocket-bot.exe.config
+C:\Users\chuzh\OneDrive\Рабочий стол\rocket-bot.csproj\bin\Debug\rocket-bot.exe
+C:\Users\chuzh\OneDrive\Рабочий стол\rocket-bot.csproj\bin\Debug\rocket-bot.pdb
+C:\Users\chuzh\OneDrive\Рабочий стол\rocket-bot.csproj\bin\Debug\nunit.framework.dll
+C:\Users\chuzh\OneDrive\Рабочий стол\rocket-bot.csproj\obj\Debug\rocket-bot.csprojAssemblyReference.cache
+C:\Users\chuzh\OneDrive\Рабочий стол\rocket-bot.csproj\obj\Debug\rocket_bot.Properties.Resources.resources
+C:\Users\chuzh\OneDrive\Рабочий стол\rocket-bot.csproj\obj\Debug\rocket-bot.csproj.GenerateResource.cache
+C:\Users\chuzh\OneDrive\Рабочий стол\rocket-bot.csproj\obj\Debug\rocket-bot.csproj.CoreCompileInputs.cache
+C:\Users\chuzh\OneDrive\Рабочий стол\rocket-bot.csproj\obj\Debug\rocket-bot.csproj.CopyComplete
+C:\Users\chuzh\OneDrive\Рабочий стол\rocket-bot.csproj\obj\Debug\rocket-bot.exe
+C:\Users\chuzh\OneDrive\Рабочий стол\rocket-bot.csproj\obj\Debug\rocket-bot.pdb
